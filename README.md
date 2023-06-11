@@ -8,4 +8,6 @@
 
 感知机是神经网络（深度学习）的起源的算法。
 
-## [神经网络]()
+## [神经网络](./ipynb/neural_network.ipynb)
+
+## [神经网络的学习](./ipynb/learning_of_neural_network.ipynb)
